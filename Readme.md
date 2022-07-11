@@ -16,7 +16,7 @@ python main.py
 
 ### output ###
 ![Prediction for Atos Paris: ATO.PA](prediction_ATO_PA.png)
-> For the next day: **14.827244 €**
+> For the next day, stock on the stock market: **14.827244 €**
 ---
 ![Prediction for Facebook: FB](prediction_FB.png)
-> For the next day: **164.9372 $**
+> For the next day, stock on the stock market: **164.9372 $**
